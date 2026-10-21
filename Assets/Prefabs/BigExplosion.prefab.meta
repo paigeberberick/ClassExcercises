@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d10ae45de32e4a4dbbcd327a4dd20be
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 127325
+  packageName: Particle Pack
+  packageVersion: 3.1
+  assetPath: Assets/UnityTechnologies/ParticlePack/EffectExamples/Fire & Explosion
+    Effects/Prefabs/BigExplosion.prefab
+  uploadId: 896138
